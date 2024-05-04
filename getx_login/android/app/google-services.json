@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124824029127",
+    "project_id": "getx-login-66834",
+    "storage_bucket": "getx-login-66834.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124824029127:android:8bc747439fe7150b357be2",
+        "android_client_info": {
+          "package_name": "com.example.getx_login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWz2lGXcGXkud7_chuwO8yvrDGFZYQ7do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
